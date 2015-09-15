@@ -2,8 +2,10 @@
 	"name": "pomelo-globalchannel-plugin",
 	"version": "0.0.7",
 	"private": false,
+	"repository": "https://github.com/netease/pomelo-globalchannel-plugin.git",
+	"license": "MIT",
 	"dependencies": {
-  	"redis": "0.10.0",
-  	"pomelo-logger": "0.1.5"
+  	"redis": "1.x",
+  	"pomelo-logger": "dbrugne/pomelo-logger"
 	}
 }
